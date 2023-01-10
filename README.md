@@ -9,12 +9,12 @@ Introduction to Computation A 计算概论A 2020 Course Project
 
 AI对战平台Botzone不围棋主页：[游戏详情：NoGo - Botzone](https://botzone.org.cn/game/NoGo)
 
-/code：C++源代码
+​	/code：C++源代码
 
-/data：保存的棋盘数据
+​	/data：保存的棋盘数据
 
-/music：背景音乐和音效
+​	/music：背景音乐和音效
 
-/picture：背景图片
+​	/picture：背景图片
 
-/report：项目报告
+​	/report：项目报告
